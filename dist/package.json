@@ -1,0 +1,17 @@
+{
+  "name": "electron-bit-tools",
+  "version": "1.0.0",
+  "description": "better transaction for human use.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/sunhuachuang/btc-tools",
+  "keywords": [
+    "bit",
+    "transaction",
+    "human"
+  ],
+  "author": "sun",
+  "license": "MIT"
+}
