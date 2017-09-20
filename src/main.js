@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
+window.BASE_HOST = 'http://127.0.0.1:5000'
 
 /* eslint-disable no-new */
 new Vue({
